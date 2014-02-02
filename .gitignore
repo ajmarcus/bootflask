@@ -1,0 +1,10 @@
+app/config.py
+deploy.sh
+*.pyc
+.DS_Store
+*.egg
+*.egg-info
+*.swp
+build
+dist
+pkg

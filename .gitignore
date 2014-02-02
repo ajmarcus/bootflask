@@ -1,4 +1,4 @@
-app/config.py
+config.py
 deploy.sh
 *.pyc
 .DS_Store
